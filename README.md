@@ -7,7 +7,7 @@
 
 # Hello GitHub Actions
 
-Completed :) 
+Completed :) :)
 
 _Create a GitHub Action and use it in a workflow._
 
